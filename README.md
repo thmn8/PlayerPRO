@@ -9,7 +9,7 @@
 -   Windows 7 и выше
 -   .NET Framework 4.7.2
 
-**Для работы установщика (SetuoPRO):**  
+**Для работы установщика (SetupPRO):**  
 -   установить расширение: Microsoft Visual Studio Installer Project 2022
 
 **!!!На данный момент разработка плеера заморожена.
